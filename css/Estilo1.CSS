@@ -1,0 +1,83 @@
+@font-face {
+	font-family:Marseline;
+	src:url(../fonts/Marseline.ttf);
+}
+h1{
+	font-family:Marseline;
+	color:black;
+	font-size: 80px;   
+}
+
+header{
+    background-color:#FFDEAD;
+    padding: 25px;
+    font-size: 25px;
+    font-family: Jokerman;
+    text-align: center;
+}
+
+.img{
+	text-align:center;
+	padding-left:250px;
+	margin: 0;
+    clear: both;
+}
+
+#lista1{
+	 list-style-type: none;
+	 margin: 0;
+	 padding: 0;
+	 overflow: hidden;
+}
+
+li a{
+	float:left;
+	padding-top:20px;
+	padding-left: 80px;
+	display: block;
+	color:black;
+	text-decoration:none;
+}
+
+h2{
+	font-family: Algerian;
+	font-size: 29px;
+	color: #000000;
+}
+
+h3{
+	font-family: "Algerian";
+	font-size: 29px;
+	color: #000000;
+}
+
+section{
+     float: left;
+     font-family: "Frank Ruehl";
+     font-size: 25px;
+     color: #000000;
+     text-align: justify;
+     clear: both;
+     padding-left: 40px;
+     background-color: rgb(131, 73, 69);
+}
+
+article{
+	padding-bottom: 20px;
+	float;left: 
+}
+
+.imgarticle{
+    background-color:rgb(104,51,42);
+	float: left;
+	margin-right:  20px;
+}
+footer{
+	clear: both;
+	background-color:#FFDEAD;
+	padding: 40px;
+	text-align: center;
+}
+.centericon{
+	  padding-right: 50px;
+}

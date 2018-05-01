@@ -1,0 +1,72 @@
+@font-face {
+	font-family:Marseline;
+	src:url(../fonts/Marseline.ttf);
+}
+h1{
+	font-family:Marseline;
+	color:black;
+	font-size: 75px;   
+}
+header{
+    background-color:#FFFACD;
+    padding: 25px;
+    font-size: 25px;
+    font-family: Jokerman;
+    text-align: center;
+}
+#lista1{
+	 list-style-type: none;
+	 margin: 0;
+	 padding: 0;
+	 overflow: hidden; /*Definicion pendiente*/ 
+	 text-align: center;
+}
+li a{
+	float:left;/*pendiente*/
+	padding-top:20px;
+	padding-left: 80px;
+	display: block; /*pendiente*/
+	color:black;
+	text-decoration:;
+	text-align: center;
+}
+li{
+	background-color:#20B2AA;
+}
+section{
+	  float: left;
+     font-family: "Frank Ruehl";
+     font-size: 25px;
+     color: #000000;
+     text-align: justify;
+     clear: both;
+     padding: 40px;
+     background-color:rgb(104,51,42);
+}
+article{
+     font-family:"Frank Ruehl";
+     font-size: 25px;
+}
+aside{
+   float:left;
+   padding-right:10px;
+}
+
+table, tr{
+     border: 2px solid black;
+}
+table, th, td {
+    border: 1px solid black;
+     border-collapse: collapse
+}
+footer{
+	clear: both;
+	background-color:#FFDEAD;
+	padding: 40px;
+	text-align: center;
+}
+.centericon{
+	  padding-right: 50px;
+	  text-align: center;
+	  color:lightblue;
+}
